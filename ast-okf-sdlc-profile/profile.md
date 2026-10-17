@@ -185,6 +185,8 @@ AST Profile 的 CI 校验器至少必须执行：
 
 - [OKF v0.2 规范](https://github.com/GoogleCloudPlatform/open-knowledge-format/blob/main/SPEC.md)
 - [AST 架构调研与路线判断](../research-okf-sdl-knowledge-architecture.md)
+- [检索指引](retrieval-instructions.md)
+- [创建与修改指引](authoring-instructions.md)
 - [OKF v0.2 摘要](references/okf-v0.2.md)
 - [Backstage 与 GitHub Docs 相邻实践](references/docs-as-code-and-catalogs.md)
 
